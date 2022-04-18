@@ -1,3 +1,5 @@
+# [Em atualização] - [Toda segunda conteúdo novo!]
+
 # Comandos Básicos do Linux com Ubuntu
 20221.1.BRT012.1E.FIC.00298 (BRTLINUX) 297974
 
